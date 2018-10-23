@@ -60,14 +60,14 @@ struct mrp_listener_ctx
 	int domain_class_b_priority;
 	u_int16_t domain_class_b_vid;
 };
-
+/*
 struct mrp_domain_attr
 {
 	int id;
 	int priority;
 	u_int16_t vid;
 };
-
+*/
 
 
 /* functions */

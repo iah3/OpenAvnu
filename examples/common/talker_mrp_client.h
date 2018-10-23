@@ -67,14 +67,14 @@ struct mrp_talker_ctx
 	unsigned char monitor_stream_id[8];
 	volatile int listeners;
 };
-
+/*
 struct mrp_domain_attr
 {
 	int id;
 	int priority;
 	u_int16_t vid;
 };
-
+*/
 
 extern volatile int mrp_error;
 
