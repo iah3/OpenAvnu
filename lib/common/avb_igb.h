@@ -1,7 +1,7 @@
 #ifndef __AVB_IGB_H__
 #define __AVB_IGB_H__
 
-#include "../ogb_avb/lib/igb.h"
+#include "../igb_avb/lib/igb.h"
 
 #define IGB_BIND_NAMESZ 24
 
