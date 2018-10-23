@@ -7,3 +7,6 @@
 [submodule "lib/igb_avb"]
 	path = lib/igb_avb
 	url = https://github.com/AVnu/igb_avb.git
+[submodule "daemons/gptp"]
+	path = daemons/gptp
+	url = https://github.com/AVnu/gptp.git
