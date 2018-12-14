@@ -7,3 +7,6 @@
 [submodule "daemons/gptp"]
 	path = daemons/gptp
 	url = https://github.com/iah3/gptp.git
+[submodule "avdecc-lib"]
+	path = avdecc-lib
+	url = https://github.com/iah3/avdecc-lib.git
