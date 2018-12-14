@@ -9,4 +9,4 @@
 	url = https://github.com/iah3/igb_avb.git
 [submodule "daemons/gptp"]
 	path = daemons/gptp
-	url = https://github.com/chris-kuhr/gptp.git
+	url = https://github.com/iah3/gptp.git
