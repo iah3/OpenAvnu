@@ -1,8 +1,13 @@
 #!/bin/bash
 set -ev
 
-git submodule init
-git submodule update
+git submodule update --init --recursive
+cd avdecc-lib
+mkdir build
+cd build
+cmake ..
+make
+cd ./../../
 cd ./lib/igb_avb/
 make all
 cp -r ./kmod ./../../
