@@ -29,4 +29,4 @@ lib/*
 !lib/common
 !lib/igb_avb
 examples/simple_rx/simple_rx
-examples/shaper/shaper_daemon
+daemons/shaper/shaper_daemon
